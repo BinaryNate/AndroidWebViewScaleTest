@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidWebViewScaleTest</string>
+    <string name="action_settings">Load youtube.com</string>
+</resources>
